@@ -136,7 +136,6 @@ zstyle ':prezto:module:ssh:load' identities 'id_rsa' 'id_rsa2' 'id_github'
 
 # Set syntax highlighters.
 # By default, only the main highlighter is enabled.
-<<<<<<< HEAD
 zstyle ':prezto:module:syntax-highlighting' highlighters \
    'main' \
    'brackets' \
@@ -144,16 +143,6 @@ zstyle ':prezto:module:syntax-highlighting' highlighters \
    'cursor' \
    'root'
 
-=======
-# zstyle ':prezto:module:syntax-highlighting' highlighters \
-#   'main' \
-#   'brackets' \
-#   'pattern' \
-#   'line' \
-#   'cursor' \
-#   'root'
-#
->>>>>>> 4f19700919c8ebbaf75755fc0d03716d13183f49
 # Set syntax highlighting styles.
 zstyle ':prezto:module:syntax-highlighting' styles \
    'builtin' 'bg=blue' \
